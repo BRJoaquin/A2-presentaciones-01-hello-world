@@ -79,7 +79,7 @@ image: /IMG-20220812-WA0056.jpg
 
 # Estructuras de Datos y Algoritmos 2
 
-- Modalidad teorico - practico.
+- Modalidad teórico - práctico.
 - Lenguaje de programación: C++ || Java
 - Temas:
   - Primera parte (Estructuras de datos y algoritmos)
@@ -87,10 +87,10 @@ image: /IMG-20220812-WA0056.jpg
     - Tablas de hash
     - Heap
     - Grafos y algoritmos de grafos en general
-  - Segunda parte (Tacticas)
+  - Segunda parte (Tácticas)
     - Dividir y conquistar
     - Greedy
-    - Programacion dinamica
+    - Programación dinámica
     - Backtracking
 ---
 
