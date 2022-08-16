@@ -106,13 +106,11 @@ image: /IMG-20220812-WA0056.jpg
 
 
 ---
-layout: image-right
-image: /formularioQR.png
----
 
 # Formulario anónimo
 
 [https://tinyurl.com/56ywuver](https://tinyurl.com/56ywuver)
+<QR qrText="https://tinyurl.com/56ywuver" qrWidth="300"></QR>
 
 ---
 layout: intro
