@@ -48,7 +48,7 @@ Introducción a Estructuras de Datos y Algoritmos 2
 
 ---
 layout: image-right
-image: /public/IMG-20220812-WA0056.jpg
+image: /IMG-20220812-WA0056.jpg
 ---
 
 # Docente
@@ -79,6 +79,8 @@ image: /public/IMG-20220812-WA0056.jpg
 # Estructuras de Datos y Algoritmos 2
 
 ### Recomendaciones en general
+<br>
+
 - **Dificultad** - mayor que el promedio (1/3 - 1/3 - 1/3)
 - **Constancia** - realizar ejercicios de obligatorio durante el semestre
 - **Recuperar clases** - de 1 a 3 temas nuevos por semana
