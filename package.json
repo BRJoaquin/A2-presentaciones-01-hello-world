@@ -10,7 +10,8 @@
     "@chenfengyuan/vue-qrcode": "^2.0.0",
     "@slidev/cli": "^0.35.5",
     "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
+    "@slidev/theme-seriph": "*",
+    "qrcode": "^1.5.1"
   },
   "devDependencies": {
     "@iconify-json/bxl": "^1.1.3"
