@@ -92,7 +92,7 @@ layout: image-right
 image: /formularioQR.png
 ---
 
-# Formulario anonimo
+# Formulario anónimo
 
 [https://tinyurl.com/56ywuver](https://tinyurl.com/56ywuver)
 
