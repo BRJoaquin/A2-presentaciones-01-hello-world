@@ -48,7 +48,7 @@ Introducción a Estructuras de Datos y Algoritmos 2
 
 ---
 layout: image-right
-image: /IMG-20220812-WA0056.jpg
+image: /public/IMG-20220812-WA0056.jpg
 ---
 
 # Docente
