@@ -74,6 +74,24 @@ image: /IMG-20220812-WA0056.jpg
 | Parcial 2 | 35 | Tácticas de programación |
 | Defensa Obligatorio | N/A | Pasa/pierde |
 
+
+---
+
+# Estructuras de Datos y Algoritmos 2
+
+- Modalidad teorico - practico.
+- Lenguaje de programación: C++ || Java
+- Temas:
+  - Primera parte (Estructuras de datos y algoritmos)
+    - AVL
+    - Tablas de hash
+    - Heap
+    - Grafos y algoritmos de grafos en general
+  - Segunda parte (Tacticas)
+    - Dividir y conquistar
+    - Greedy
+    - Programacion dinamica
+    - Backtracking
 ---
 
 # Estructuras de Datos y Algoritmos 2
