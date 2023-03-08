@@ -39,7 +39,7 @@ Introducción a Estructuras de Datos y Algoritmos 2
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-discord />
   </a>
-  <a href="mailto:joaquin.vigna@gmail.com" target="_blank" alt="GitHub"
+  <a href="mailto:joaquin.vigna@fi365.ort.edu.uy" target="_blank" alt="GitHub"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <bxl-gmail />
   </a>
