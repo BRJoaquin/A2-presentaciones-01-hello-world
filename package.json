@@ -8,9 +8,9 @@
   },
   "dependencies": {
     "@chenfengyuan/vue-qrcode": "^2.0.0",
-    "@slidev/cli": "^0.35.5",
+    "@slidev/cli": "^0.48.0-beta.19",
     "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*",
+    "@slidev/theme-seriph": "^0.25.0",
     "qrcode": "^1.5.1"
   },
   "devDependencies": {
