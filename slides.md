@@ -15,6 +15,7 @@ css: unocss
 ---
 
 # Estructuras de Datos y Algoritmos 2
+
 Introducción
 
 ---
@@ -22,15 +23,16 @@ Introducción
 # Estructuras de Datos y Algoritmos 2
 
 ### Evaluaciones
+
 <br>
 
-|  **instancia**   |  **puntos** | **observaciones** |
-| --- | --- | --- |
-| Parcial 1 | 35 | Hasta grafos (inclusive) |
-| Obligatorio | 30 | Ejercicios individuales (10-12) |
-| Parcial 2 | 35 | Tácticas de programación |
-| Defensa Obligatorio | N/A | Posible perdida de puntos |
-
+| **instancia**       | **puntos** | **observaciones**         |
+| ------------------- | ---------- | ------------------------- |
+| Parcial 1           | 30         | Hasta grafos (inclusive)  |
+| Obligatorio 1       | 20         | Ejercicios individuales   |
+| Obligatorio 2       | 20         | Ejercicios individuales   |
+| Parcial 2           | 30         | Tácticas de programación  |
+| Defensa Obligatorio | N/A        | Posible perdida de puntos |
 
 ---
 
@@ -50,22 +52,21 @@ Introducción
     - Programación dinámica
     - Backtracking
 
-
 ---
 
 # Estructuras de Datos y Algoritmos 2
 
 ### Recomendaciones en general
+
 <br>
 
-- **Dificultad** - mayor que el promedio 
+- **Dificultad** - mayor que el promedio
 - **Constancia** - realizar ejercicios de obligatorio durante el semestre
 - **Recuperar clases** - de 1 a 3 temas nuevos por semana
 - **Contacto fuera de clase** - utilizar teams/email con el docente fuera de clase
 
+---
 
----
-layout: intro
----
+## layout: intro
 
 # Presentación de aulas
