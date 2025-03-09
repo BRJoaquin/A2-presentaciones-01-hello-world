@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: https://source.unsplash.com/collection/94734566/1920x1080
+background: https://cdn.jsdelivr.net/gh/slidevjs/slidev-covers@main/static/FwjWUGbrxOU.webp
 class: text-center
 highlighter: shiki
 lineNumbers: false
@@ -14,9 +14,8 @@ drawings:
 css: unocss
 ---
 
-# Hello World
-Introducción a Estructuras de Datos y Algoritmos 2
-
+# Estructuras de Datos y Algoritmos 2
+Introducción
 
 ---
 
@@ -59,7 +58,7 @@ Introducción a Estructuras de Datos y Algoritmos 2
 ### Recomendaciones en general
 <br>
 
-- **Dificultad** - mayor que el promedio (1/3 - 1/3 - 1/3)
+- **Dificultad** - mayor que el promedio 
 - **Constancia** - realizar ejercicios de obligatorio durante el semestre
 - **Recuperar clases** - de 1 a 3 temas nuevos por semana
 - **Contacto fuera de clase** - utilizar teams/email con el docente fuera de clase
