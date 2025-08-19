@@ -66,7 +66,7 @@ Introducción
 - **Contacto fuera de clase** - utilizar teams/email con el docente fuera de clase
 
 ---
-
-## layout: intro
+layout: intro
+---
 
 # Presentación de aulas
