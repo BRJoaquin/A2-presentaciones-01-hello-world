@@ -29,8 +29,8 @@ Introducción
 | **instancia**       | **puntos** | **observaciones**         |
 | ------------------- | ---------- | ------------------------- |
 | Parcial 1           | 30         | Hasta grafos (inclusive)  |
-| Obligatorio 1       | 20         | Ejercicios individuales   |
-| Obligatorio 2       | 20         | Ejercicios individuales   |
+| Obligatorio 1       | 20         | Ejercicios individuales (entre ejercicios)   |
+| Obligatorio 2       | 20         | Ejercicios individuales (entre ejercicios)   |
 | Parcial 2           | 30         | Tácticas de programación  |
 | Defensa Obligatorio | N/A        | Posible perdida de puntos |
 
