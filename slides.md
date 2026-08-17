@@ -28,11 +28,16 @@ Introducción
 
 | **instancia**       | **puntos** | **observaciones**         |
 | ------------------- | ---------- | ------------------------- |
-| Parcial 1           | 30         | Hasta grafos (inclusive)  |
-| Obligatorio 1       | 20         | Ejercicios individuales (entre ejercicios)   |
-| Obligatorio 2       | 20         | Ejercicios individuales (entre ejercicios)   |
-| Parcial 2           | 30         | Tácticas de programación  |
-| Defensa Obligatorio | N/A        | Posible perdida de puntos |
+| Parcial 1           | 35         | Hasta grafos (inclusive)  |
+| Obligatorio 1       | 15         | Ejercicios individuales (entre ejercicios)   |
+| Obligatorio 2       | 15         | Ejercicios individuales (entre ejercicios)   |
+| Parcial 2           | 35         | Tácticas de programación  |
+| Defensa 1           | N/A        | Clase siguiente a la entrega del obligatorio 1 |
+| Defensa 2           | N/A        | Junto al parcial 2        |
+
+<br>
+
+> Las defensas no suman puntos propios: **atan los puntos de cada ejercicio del obligatorio**.
 
 ---
 
@@ -51,6 +56,47 @@ Introducción
     - Greedy
     - Programación dinámica
     - Backtracking
+
+---
+
+# Estructuras de Datos y Algoritmos 2
+
+### Obligatorios: qué se entrega
+
+<br>
+
+- **Código fuente** de cada ejercicio (C++ o Java), partiendo de los templates de la cátedra.
+- **Bitácora** (`bitacora.md`): una entrada por cada día trabajado — quién trabajó, qué se hizo, qué se pensó, bugs y correcciones. *No se escribe el día de la entrega.*
+- **Declaración de autoría** (`autoria.md`): fuentes por ejercicio — clase, web (URL), IA.
+- **Justificación de órdenes** (`justificacion.md`): por qué la solución cumple las restricciones de tiempo/espacio de la letra.
+
+> Los templates ya incluyen los tres archivos con la estructura esperada.
+
+---
+
+# Estructuras de Datos y Algoritmos 2
+
+### Defensas
+
+<br>
+
+- **Dos defensas**: la primera en la clase siguiente a la entrega, la segunda junto al parcial 2.
+- **Escritas, presenciales y obligatorias**. No hay defensas orales.
+- **Una pregunta por ejercicio**, 30 minutos.
+- No poder contestar la pregunta de un ejercicio ⇒ **se pierden los puntos de ese ejercicio**.
+- La bitácora es la mejor preparación: refleja el razonamiento detrás de cada decisión.
+
+---
+
+# Estructuras de Datos y Algoritmos 2
+
+### Uso de IA
+
+<br>
+
+- ✅ **Permitido y fomentado como apoyo**: depurar código propio, fragmentos acotados, explorar ideas, consulta teórica — siempre **declarándolo** (bitácora + comentarios en el código).
+- ❌ **No permitido**: entregar soluciones generadas por IA como propias, usar IA sin declararla, entregar código que no se comprende.
+- La comprensión se verifica en las **defensas**: el estudiante es responsable de todo lo que entrega.
 
 ---
 
