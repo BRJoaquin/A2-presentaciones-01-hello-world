@@ -32,12 +32,10 @@ Introducción
 | Obligatorio 1       | 15         | Ejercicios individuales (entre ejercicios)   |
 | Obligatorio 2       | 15         | Ejercicios individuales (entre ejercicios)   |
 | Parcial 2           | 35         | Tácticas de programación  |
-| Defensa 1           | N/A        | Clase siguiente a la entrega del obligatorio 1 |
-| Defensa 2           | N/A        | Junto al parcial 2        |
 
 <br>
 
-> Las defensas no suman puntos propios: **atan los puntos de cada ejercicio del obligatorio**.
+**Defensas**: dos instancias escritas y obligatorias que atan los puntos de cada ejercicio *(detalle más adelante)*.
 
 ---
 
